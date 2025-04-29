@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "name": "Dell",
+            "price": 23000.35,
+            "quantity": 1,
+            "category": "Laptops",
+            "warranty_period": "12 months",
+            "created_at": "2025-04-29 21:54:31.065358"
+        },
+        {
+            "name": "Sony HeadPhones",
+            "price": 6001.0,
+            "quantity": 7,
+            "category": "Headphones",
+            "features": "great features",
+            "created_at": "2025-04-29 21:57:47.499988"
+        },
+        {
+            "name": "husa xiaomi",
+            "price": 239.99,
+            "quantity": 20,
+            "category": "huse",
+            "compatibility": "xiaomi redmi note 10",
+            "created_at": "2025-04-29 22:04:39.230316"
+        }
+    ]
+}
